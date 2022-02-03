@@ -3,6 +3,10 @@
  * Copyright 2014-2017 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
+ @import url('https://fonts.googleapis.com/css2?family=Noticia+Text:ital@1&display=swap');
+
+ /* font-family: 'Noticia Text', serif; */
+
  .materialize-red {
     background-color: #e51c23 !important;
   }
@@ -2162,6 +2166,7 @@
    * Remove the margin in all browsers (opinionated).
    */
   body {
+    background-color: #dfdfdf5c;
     margin: 0;
   }
   

@@ -4,20 +4,8 @@ import './App.css';
 function App() {
   return (
     <div class="container">
-        <div class="row">
-      <div class="col s1">1</div>
-      <div class="col s1">2</div>
-      <div class="col s1">3</div>
-      <div class="col s1">4</div>
-      <div class="col s1">5</div>
-      <div class="col s1">6</div>
-      <div class="col s1">7</div>
-      <div class="col s1">8</div>
-      <div class="col s1">9</div>
-      <div class="col s1">10</div>
-      <div class="col s1">11</div>
-      <div class="col s1">12</div>
-    </div>
+        <h1 className='news-header-header'></h1>
+        <h1 className='news-header'>WebDev News</h1>
     </div>
   );
 }
