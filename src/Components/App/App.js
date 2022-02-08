@@ -7,8 +7,8 @@ function App() {
 
   return (
     <div class="container">
+        <h5 className='news-header-header mt-5'></h5>
         <h1 className='news-header'>WebDev News</h1>
-        <canvas id="canvas" width="300" height="300"></canvas>
         <Universe />
     </div>
   );
